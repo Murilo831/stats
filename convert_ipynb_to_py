@@ -1,4 +1,0 @@
-precisa instalar -> pip install ipython
-precisa instalar -> pip install nbconvert
-
-Converte de .ipynb para .py -> jupyter nbconvert --to script nomeDoArquivo.ipynb
